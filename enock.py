@@ -1,4 +1,3 @@
-#!/bin/python
 # Creating a hash map (dictionary) in Python
 
 enock={}
